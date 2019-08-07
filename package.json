@@ -24,13 +24,13 @@
   "peerDependencies": {
     "react": "16.6.0",
     "react-dom": "16.6.0",
-    "konva": "^2.0.0"
+    "konva": "git://github.com/sadwizard/konva.git#feature/abstract-group"
   },
   "devDependencies": {
     "chai": "^4.2.0",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.6.0",
-    "konva": "^2.0.0",
+    "konva": "git://github.com/sadwizard/konva.git#feature/abstract-group",
     "sinon": "^6.3.5",
     "nwb": "^0.23.0",
     "react": "16.6.0",
