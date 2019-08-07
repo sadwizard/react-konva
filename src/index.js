@@ -168,6 +168,7 @@ const KONVA_NODES = [
   'Layer',
   'FastLayer',
   'Group',
+  'AbstractGroup',
   'Label',
   'Rect',
   'Circle',
